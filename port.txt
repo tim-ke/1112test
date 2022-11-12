@@ -31,3 +31,5 @@ net start "Remote Desktop Services"
 echo 重啟完成
 
 pause
+
+
